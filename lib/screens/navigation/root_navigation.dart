@@ -19,7 +19,7 @@ class _RootNavigationState extends State<RootNavigation> {
   int _selectedIndex = 0;
 
   final List<Widget> _screens = [
-    const TheCoreSc​reen(),
+    const TheCoreScreen(),
     const LiveGridScreen(),
     const PowerGridScreen(),
     const ThePitScreen(),
