@@ -4,8 +4,8 @@ import '../../widgets/stars/animated_stars.dart';
 import '../../widgets/common/cosmic_card.dart';
 import '../../widgets/common/cosmic_button.dart';
 
-class TheCoreSc​reen extends StatelessWidget {
-  const TheCoreSc​reen({Key? key}) : super(key: key);
+class TheCoreScreen extends StatelessWidget {
+  const TheCoreScreen({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
